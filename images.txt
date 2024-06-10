@@ -11,3 +11,4 @@ ollama/ollama:latest
 ghcr.io/open-webui/open-webui:latest
 zhayujie/chatgpt-on-wechat
 hanfangyuan/dify-on-wechat
+xprobe/xinference:latest
