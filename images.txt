@@ -9,3 +9,4 @@ ubuntu/squid:latest
 nginx:latest
 ollama/ollama:latest
 ghcr.io/open-webui/open-webui:latest
+zhayujie/chatgpt-on-wechat
